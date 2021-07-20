@@ -62,7 +62,7 @@ setup(
                         'Flask~=1.1.2',
                         'folium==0.12.1',
                         'geopy==1.21.0',
-                        'Jinja2==2.11.2',
+                        'Jinja2==2.11.3',
                         'matplotlib==3.2.1',
                         'numpy~=1.20.0',
                         'pandas~=1.0.3',
